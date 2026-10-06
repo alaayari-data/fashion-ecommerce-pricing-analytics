@@ -1,6 +1,6 @@
 # Fashion E-Commerce Pricing & Discount Analytics
 
-A SQL + Power BI portfolio project built on a messy, real-world Kaggle fashion dataset (30,785 rows, Myntra). The goal: turn raw, inconsistent scraped data into a clean warehouse and a one-page dashboard that actually says something.
+A SQL + Power BI portfolio project built on a messy, real-world Kaggle fashion dataset (30,785 rows). The goal: turn raw, inconsistent scraped data into a clean warehouse and a one-page dashboard that actually says something.
 
 ## What's in here
 
